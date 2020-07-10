@@ -1,2 +1,2 @@
 # yii-casbin
-yiisoft/yii-casbin
+lqer/yii-casbin
